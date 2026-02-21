@@ -23,8 +23,3 @@
 <h3 align="left">🔥 My Stats :</h3>
 <p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=bluegnarl&theme=dark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D"/></a></p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluegnarl&layout=compact&bg_color=151515&border_radius=40&title_color=FB8C00&text_color=ffffff&hide_border=true"/></a></p>
-<h3 align="left">🚧 My Projects :</h3>
-<p><a href="https://github.com/FullCycleConceptaria/Merciki-copy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=Merciki-copy&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a>
-<a href="https://github.com/FullCycleConceptaria/rainalert-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=rainalert-react&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a>
-<a href="https://github.com/FullCycleConceptaria/token"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FullCycleConceptaria&repo=token&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a>
-<a href="https://github.com/Bluegnarl/g-sathan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bluegnarl&repo=g-sathan&bg_color=151515&hide_border=true&border_radius=40&title_color=FB8C00&text_color=ffffff"/></a></p>
