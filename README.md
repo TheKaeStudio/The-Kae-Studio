@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <a href="https://linktr.ee/bluegnarl" target="_blank"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/></a>
 </div>
-<h1 align="center">Hi, I'm <a href="https://linktr.ee/bluegnarl">Bluegnarl</a> !</h1>
+<h1 align="center">Hi, I'm <a href="https://linktr.ee/bluegnarl">Kae</a> !</h1>
 <h3 align="center">I'm a passionate Content Creator, Artist, Developer and Designer.</h3>
 <h3 align="left">🎬 My Social Networks :</h3>
 <p align="left">
